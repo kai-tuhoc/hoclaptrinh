@@ -3,6 +3,19 @@ h1 {
   font-style: italic;
 }
 td {
+  /* màu chữ */
   color: blue;
+  /* kiểu chữ  */
   font-style: italic;
+  /* font chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* căn giữa */
+  text-align: center;
+  /* cỡ chữ  */
+  font-size: 18px;
+  /* độ mờ */
+  opacity: 100%;
+}
+body {
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobilecity.vn%2Ftin-tuc%2Ftop-hinh-nen-vu-tru-sieu-dep-khien-nguoi-xem-me-man.html&psig=AOvVaw0k5-_KEZ1On5KcdAbdOOUB&ust=1755107969142000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID2surshY8DFQAAAAAdAAAAABAE);
 }
