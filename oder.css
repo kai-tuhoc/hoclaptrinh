@@ -1,6 +1,8 @@
 h1 {
   color: aquamarine;
   font-style: italic;
+  text-align: center;
+  /* display:none;  Không chiếm không gian */
 }
 td {
   /* màu chữ */
@@ -18,4 +20,5 @@ td {
 }
 body {
   background-image: url(./img/bg.webp);
+  visibility: visible; /*Không thể tương tác được*/
 }
